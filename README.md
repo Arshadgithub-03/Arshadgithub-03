@@ -1,7 +1,7 @@
 # Hi there, I'm Mohammed Arshad! 👋
 
 🎓 **Final Year B.E Student | Computer Science Engineering**  
-📍 **Motilal Nehru National Institute of Technology, Allahabad**  
+📍 **C. Aabdul Hakeem College Of Engineering And Technology, Tamil Nadu**  
 💻 **Aspiring Full-Stack Developer | Problem Solver | Tech Enthusiast**  
 
 ---
