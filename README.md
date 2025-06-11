@@ -1,15 +1,46 @@
+# Hi there, I'm Mohammed Arshad! 👋
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rock_arshad_03) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-arshad-623957258) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Arshadgithub-03&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Arshadgithub-03&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arshadgithub-03&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+🎓 **Final Year B.E Student | Computer Science Engineering**  
+📍 **Motilal Nehru National Institute of Technology, Allahabad**  
+💻 **Aspiring Full-Stack Developer | Problem Solver | Tech Enthusiast**  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Arshadgithub-03&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🚀 About Me
+- Passionate about **problem-solving** and **software development** with a knack for both backend and frontend web development.  
+- Began my programming journey in C and evolved to mastering C++, JavaScript, and the **MERN stack**.  
+- Continuously exploring innovative solutions through **data structures and algorithms** and **full-stack projects**.  
+- Enthusiastic about applying my skills to **Full Stack Projects** and learning new technologies.
+
+---
+
+### 🛠️ Skills & Expertise
+- **Programming Languages:** C, C++, JavaScript  
+- **Frontend Development:** HTML, CSS, React.js, TailwindCSS  
+- **Backend Development:** Node.js, Express.js  
+- **Databases:** MongoDB, MySQL  
+- **Other Tools:** Git, GitHub, MongoDB Compass, Mysql
+
+---
+
+### 📚 Selected Project
+- [**Dev-Sync**](https://ai-enhanced-collaboration-platform-for-8srm.onrender.com/)  
+  A real-time AI-enhanced project collaboration platform with private chatrooms, smart coding assistance, and in-browser server execution.
+  Technologies: React.js, Tailwind CSS, Node.js, Express.js, MongoDB, Socket.io, Redis, Gemini AI, WebContainers
+  
+
+---
+
+### 🏆 Achievements
+- Earned a 3-Star C++ badge on HackerRank for consistent performance in coding challenges.
+- Selected for the Internal Smart India Hackathon (SIH) for developing an AI-based problem-solving solution.
+
+---
+
+### 🌱 Let's Connect!
+- 📧 Email: [mohammedarshad79961@gmail.com](mailto:mohammedarshad79961@gmail.com)  
+- 💼 LinkedIn: [Mohammed Arshad](https://www.linkedin.com/in/mohammedarshad79961)  
+- 🧑‍💻 GitHub: [Arshadgithub-03](https://github.com/Arshadgithub-03)  
+- 🌐 Portfolio: [Check Out My Work](https://arshadgithub-03.github.io/workfolio/)  
+
+---
