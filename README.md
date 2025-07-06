@@ -2,7 +2,7 @@
 
 🎓 **Final Year B.E Student | Computer Science Engineering**  
 📍 **C. Abdul Hakeem College Of Engineering And Technology, Tamil Nadu**  
-💻 **Aspiring Full-Stack Developer | Problem Solver | Tech Enthusiast**  
+🌐 Cloud Enthusiast  | Problem Solver | Tech Enthusiast**  
 
 ---
 ### 🌟 Quote / Motto
