@@ -41,6 +41,6 @@
 - 📧 Email: [mohammedarshad79961@gmail.com](mailto:mohammedarshad79961@gmail.com)  
 - 💼 LinkedIn: [Mohammed Arshad](https://www.linkedin.com/in/mohammedarshad79961)  
 - 🧑‍💻 GitHub: [Arshadgithub-03](https://github.com/Arshadgithub-03)  
-- 🌐 Portfolio: [Check Out My Work](https://arshadgithub-03.github.io/workfolio/)  
+- 🌐 Portfolio: [Check Out My Work](https://mohammedarshad.netlify.app/#teams)  
 
 ---
