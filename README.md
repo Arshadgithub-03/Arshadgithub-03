@@ -5,6 +5,12 @@
 💻 **Aspiring Full-Stack Developer | Problem Solver | Tech Enthusiast**  
 
 ---
+### 🌟 Quote / Motto
+
+> _“Code. Deploy. Scale. Repeat.”_  
+> _— Automating the future, one pipeline at a time._
+
+---
 
 ### 🚀 About Me
 - Passionate about **problem-solving** and **software development** with a knack for both backend and frontend web development.  
