@@ -1,4 +1,4 @@
-# Hi there, I'm Mohammed Arshad! 👋
+# 👋 Hi there, I'm Mohammed Arshad!
 
 🎓 **Final Year B.E Student | Computer Science Engineering**  
 📍 **C. Abdul Hakeem College Of Engineering And Technology, Tamil Nadu**  
