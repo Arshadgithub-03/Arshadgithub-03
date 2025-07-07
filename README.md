@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Mohammed Arshad!
 
-🎓 **Final Year B.E Student | Computer Science Engineering**  
+🎓 **Bachelor Of Engineering (Hons) in Computer Science**  
 📍 **C. Abdul Hakeem College Of Engineering And Technology, Tamil Nadu**  
 🌐 **Cloud Enthusiast  | Problem Solver | Tech Enthusiast**  
 
