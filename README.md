@@ -30,7 +30,7 @@
 ---
 
 ### 📚 Selected Project
-- [**Dev-Sync**] 
+- [**Dev-Sync**]
   A real-time AI-enhanced project collaboration platform with private chatrooms, smart coding assistance, and in-browser server execution.
   Technologies: React.js, Tailwind CSS, Node.js, Express.js, MongoDB, Socket.io, Redis, Gemini AI, WebContainers
 - [**AI Ticket Assistant**]
