@@ -30,9 +30,12 @@
 ---
 
 ### 📚 Selected Project
-- [**Dev-Sync**](https://ai-enhanced-collaboration-platform-for-8srm.onrender.com/)  
+- [**Dev-Sync**] 
   A real-time AI-enhanced project collaboration platform with private chatrooms, smart coding assistance, and in-browser server execution.
   Technologies: React.js, Tailwind CSS, Node.js, Express.js, MongoDB, Socket.io, Redis, Gemini AI, WebContainers
+- [**AI Ticket Assistant**]
+  An AI-powered ticket management system that automates ticket categorization, priority assignment, and moderator routing, ensuring faster resolutions and improved efficiency.
+  Technologies: React.js, Tailwind CSS, Node.js, Express.js, MongoDB, Gemini AI
   
 
 ---
